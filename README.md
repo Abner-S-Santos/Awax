@@ -1,1 +1,1 @@
-Este é um projeto em desenvolvimento, alterações no README e no código serão feitas.
+A Landing Page Awax é um template grauito, o qual tive como base para poder criar todo o código. o site é totalmente responsivo, funcionando em diversas telas, desde computadores até tablets, celulares e etc. JS será adicionado em breve / The Landing Page Awax is a free template, which I used as a base to create all the code. The site is fully responsive, working on different screens, from computers to tablets, cell phones and etc. JS will be added soon
